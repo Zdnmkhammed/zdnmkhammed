@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there, I'm Dimash 👋
 
-<!--
-**Zdnmkhammed/zdnmkhammed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Student at **Astana IT University (Cybersecurity, Full Scholarship)**  
+💻 Aspiring **Flutter Developer** | 🤖 Interested in **AI & Mobile Apps**  
+🌍 Based in Kazakhstan  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack
+- Flutter & Dart (cross-platform mobile apps)  
+- Firebase (Authentication, Firestore, Hosting)  
+- AI Integration (GPT APIs)  
+- Android UI, navigation & deployment  
+- Cybersecurity fundamentals  
+
+---
+
+## 📂 Projects
+- **AI Chat App** – Flutter + Firebase + GPT  
+- **Flutter Map with AI Integration** – Maps, APIs, smart search  
+  
+---
+
+✨ *Always learning, building, and dreaming big.*
