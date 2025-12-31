@@ -1,24 +1,71 @@
-# Hi there, I'm Dimash 👋
+Hi there, I'm Dimash 👋
 
-🎓 Student at **Astana IT University (Cybersecurity, Full Scholarship)**  
-💻 Aspiring **Flutter Developer** | 🤖 Interested in **AI & Mobile Apps**  
-🌍 Based in Kazakhstan  
+🎓 2nd-year student at Astana IT University
+Major: Cybersecurity (Full Scholarship)
 
----
+💻 Junior Flutter Developer with hands-on experience in building cross-platform mobile applications for Android and iOS
 
-## 🔧 Tech Stack
-- Flutter & Dart (cross-platform mobile apps)  
-- Firebase (Authentication, Firestore, Hosting)  
-- AI Integration (GPT APIs)  
-- Android UI, navigation & deployment  
-- Cybersecurity fundamentals  
+🌍 Based in Kazakhstan
 
----
+🔧 Tech Stack
 
-## 📂 Projects
-- **AI Chat App** – Flutter + Firebase + GPT  
-- **Flutter Map with AI Integration** – Maps, APIs, smart search  
-  
----
+Flutter & Dart — cross-platform mobile app development
 
-✨ *Always learning, building, and dreaming big.*
+Firebase — Authentication, Firestore, Realtime Database, Storage
+
+Android & iOS — UI design, navigation, deployment
+
+Geolocation & time-based logic
+
+FlutterFlow
+
+Basic Web development
+
+Unity (basic)
+
+Python (basic)
+
+Cybersecurity fundamentals
+
+📂 Projects
+Attendance+ (Flutter Mobile App)
+
+Attendance tracking based on geolocation and time
+
+Firebase integration (Auth, Firestore)
+
+Clean and modern UI/UX
+
+Built-in mini-game (Tetris) for gamification
+
+Fully developed from idea to production-ready app
+
+Other Projects
+
+AI Chat App — Flutter + Firebase + GPT APIs
+
+Flutter Map App with AI Integration — maps, APIs, smart search
+
+🚀 About Me
+
+6+ months of practical experience with Flutter
+
+Able to build a working mobile application in 4 days – 2 weeks, depending on complexity
+
+Strong adaptability and fast learning skills
+
+Looking to grow in a professional development environment and contribute to real-world projects
+
+🌍 Languages
+
+Kazakh — Native
+
+Russian — C1
+
+English — B2
+
+Chinese — Currently learning
+
+✨ Motivation
+
+Always learning, building, and aiming to grow as a professional Flutter developer 🚀
