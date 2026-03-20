@@ -23,7 +23,7 @@ Basic Web development
 
 Unity (basic)
 
-Python (basic)
+Python (middle)
 
 Cybersecurity fundamentals
 
@@ -45,6 +45,8 @@ Other Projects
 AI Chat App — Flutter + Firebase + GPT APIs
 
 Flutter Map App with AI Integration — maps, APIs, smart search
+
+AI_Mentor(First in the world)
 
 🚀 About Me
 
