@@ -33,12 +33,14 @@ Git, VS Code
 OpenCV, NumPy
 Firebase (Auth, Firestore)
 REST APIs, TTS/STT APIs
+
 🔐 Cybersecurity Experience
 Built and configured a personal lab using Kali Linux for penetration testing practice
 Performed network scanning and basic vulnerability assessment using Nmap
 Simulated phishing attacks and implemented defense strategies
 Practiced hands-on labs on TryHackMe and DefendMe
 Analyzed common web vulnerabilities (XSS, SQL Injection)
+
 🏆 Certifications & Achievements
 Cisco Networking Academy — CCNA: Introduction to Networks (2025)
 Cisco Networking Academy — Introduction to Cybersecurity (2025)
