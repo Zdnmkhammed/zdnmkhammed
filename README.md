@@ -63,6 +63,7 @@ Other Projects:
 
 AI Chat App (Flutter + Firebase + GPT APIs)
 Map App with AI integration (APIs, smart search)
+
 🌍 Languages
 Kazakh — Native
 Russian — C2
