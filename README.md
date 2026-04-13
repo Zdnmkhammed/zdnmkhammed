@@ -1,72 +1,69 @@
-Hi there, I'm Dimash 👋
+🔥 Zhaksylyk Dinmukhamed
 
-🎓 2nd-year student at Astana IT University
-Major: Cybersecurity (Full Scholarship)
+🎓 2nd-year Cybersecurity student at Astana IT University (Full Scholarship)
+📍 Kazakhstan
 
-💻 Junior Flutter Developer with hands-on experience in building cross-platform mobile applications for Android and iOS
+🧠 Profile
 
-🌍 Based in Kazakhstan
+Cybersecurity-focused student with hands-on experience in network security, vulnerability assessment, and phishing attack simulations. Background in software development (Flutter, Python) with the ability to build and analyze real-world systems. Actively developing practical skills through labs and platforms like TryHackMe.
 
-🔧 Tech Stack
+🛠 Technical Skills
 
-Flutter & Dart — cross-platform mobile app development
+Cybersecurity:
 
-Firebase — Authentication, Firestore, Realtime Database, Storage
+Vulnerability scanning (Nmap)
+Phishing attack & defense techniques
+Web security basics (XSS, SQL Injection)
+Network security fundamentals
 
-Android & iOS — UI design, navigation, deployment
+Systems & Networking:
 
-Geolocation & time-based logic
+Kali Linux, Ubuntu
+TCP/IP, OSI model, Cisco fundamentals
 
-FlutterFlow
+Programming & Development:
 
-Basic Web development
+Python (intermediate)
+Dart (basic), Flutter
+HTML, CSS
 
-Unity (basic)
+Tools & Technologies:
 
-Python (middle)
+Git, VS Code
+OpenCV, NumPy
+Firebase (Auth, Firestore)
+REST APIs, TTS/STT APIs
+🔐 Cybersecurity Experience
+Built and configured a personal lab using Kali Linux for penetration testing practice
+Performed network scanning and basic vulnerability assessment using Nmap
+Simulated phishing attacks and implemented defense strategies
+Practiced hands-on labs on TryHackMe and DefendMe
+Analyzed common web vulnerabilities (XSS, SQL Injection)
+🏆 Certifications & Achievements
+Cisco Networking Academy — CCNA: Introduction to Networks (2025)
+Cisco Networking Academy — Introduction to Cybersecurity (2025)
+Cisco Networking Academy — Networking Basics (2025)
+Cisco Networking Academy — Junior Cybersecurity Analyst Career Path (2025)
+Linux Essentials Certification (2025)
 
-Cybersecurity fundamentals
+Relevant Modules:
+Network Defense • Threat Analysis • System Safeguards • Networking Protocols • IP Basics
 
-📂 Projects
+💻 Development Experience
+
 Attendance+ (Flutter Mobile App)
 
-Attendance tracking based on geolocation and time
+Geolocation-based attendance tracking system
+Firebase integration (Authentication, Firestore)
+Implemented time-based logic and secure data handling
+Designed clean UI/UX
+Developed from concept to production-ready application
 
-Firebase integration (Auth, Firestore)
+Other Projects:
 
-Clean and modern UI/UX
-
-Built-in mini-game (Tetris) for gamification
-
-Fully developed from idea to production-ready app
-
-Other Projects
-
-AI Chat App — Flutter + Firebase + GPT APIs
-
-Flutter Map App with AI Integration — maps, APIs, smart search
-
-
-🚀 About Me
-
-6+ months of practical experience with Flutter
-
-Able to build a working mobile application in 4 days – 2 weeks, depending on complexity
-
-Strong adaptability and fast learning skills
-
-Looking to grow in a professional development environment and contribute to real-world projects
-
+AI Chat App (Flutter + Firebase + GPT APIs)
+Map App with AI integration (APIs, smart search)
 🌍 Languages
-
 Kazakh — Native
-
-Russian — C1
-
+Russian — C2
 English — B2
-
-Chinese — Currently learning
-
-✨ Motivation
-
-Always learning, building, and aiming to grow as a professional Flutter developer 🚀
