@@ -1,72 +1,149 @@
-🔥 Zhaksylyk Dinmukhamed
+# 🔥 Zhaksylyk Dinmukhamed
 
 🎓 2nd-year Cybersecurity student at Astana IT University (Full Scholarship)
 📍 Kazakhstan
 
-🧠 Profile
+## 🧠 Profile
 
-Cybersecurity-focused student with hands-on experience in network security, vulnerability assessment, and phishing attack simulations. Background in software development (Flutter, Python) with the ability to build and analyze real-world systems. Actively developing practical skills through labs and platforms like TryHackMe.
+Cybersecurity-focused student with practical experience in security analysis, penetration testing fundamentals, and software development. Interested in building secure and scalable systems while combining cybersecurity knowledge with mobile and AI-powered applications.
 
-🛠 Technical Skills
+Hands-on experience in security labs, network analysis, vulnerability assessment, and application development using Flutter and Python. Continuously improving practical skills through real-world projects and cybersecurity platforms.
 
-Cybersecurity:
+---
 
-Vulnerability scanning (Nmap)
-Phishing attack & defense techniques
-Web security basics (XSS, SQL Injection)
-Network security fundamentals
+## 🛠 Core Skills
 
-Systems & Networking:
+### Cybersecurity
 
-Kali Linux, Ubuntu
-TCP/IP, OSI model, Cisco fundamentals
+* SOC Analyst fundamentals
+* Penetration Testing (basic–intermediate)
+* Vulnerability Assessment
+* Network Security
+* Web Security (XSS, SQL Injection)
+* Phishing Attack Simulation & Defense
+* Threat Analysis
 
-Programming & Development:
+### Systems & Networking
 
-Python (intermediate)
-Dart (basic), Flutter
-HTML, CSS
+* TCP/IP, OSI Model
+* Linux (Kali Linux, Ubuntu)
+* Network Fundamentals
+* Security Monitoring Concepts
 
-Tools & Technologies:
+### Development
 
-Git, VS Code
-OpenCV, NumPy
-Firebase (Auth, Firestore)
-REST APIs, TTS/STT APIs
+* Flutter, Dart
+* Python
+* REST APIs
+* Firebase (Authentication, Firestore)
+* Git
+* UI/UX Fundamentals
 
-🔐 Cybersecurity Experience
-Built and configured a personal lab using Kali Linux for penetration testing practice
-Performed network scanning and basic vulnerability assessment using Nmap
-Simulated phishing attacks and implemented defense strategies
-Practiced hands-on labs on TryHackMe and DefendMe
-Analyzed common web vulnerabilities (XSS, SQL Injection)
+### Tools
 
-🏆 Certifications & Achievements
-Cisco Networking Academy — CCNA: Introduction to Networks (2025)
-Cisco Networking Academy — Introduction to Cybersecurity (2025)
-Cisco Networking Academy — Networking Basics (2025)
-Cisco Networking Academy — Junior Cybersecurity Analyst Career Path (2025)
-Linux Essentials Certification (2025)
+* Nmap
+* VS Code
+* OpenCV
+* NumPy
+* TTS / STT APIs
 
-Relevant Modules:
-Network Defense • Threat Analysis • System Safeguards • Networking Protocols • IP Basics
+---
 
-💻 Development Experience
+## 🔐 Cybersecurity Experience
 
-Attendance+ (Flutter Mobile App)
+* Built and configured a personal cybersecurity lab using Kali Linux
+* Performed vulnerability scanning and network analysis using Nmap
+* Practiced phishing attack simulations and defense techniques
+* Conducted hands-on security labs and attack scenario exercises
+* Studied and analyzed common web vulnerabilities and mitigation approaches
+* Developed understanding of SOC workflows and incident investigation basics
 
-Geolocation-based attendance tracking system
-Firebase integration (Authentication, Firestore)
-Implemented time-based logic and secure data handling
-Designed clean UI/UX
-Developed from concept to production-ready application
+---
 
-Other Projects:
+## 💻 Projects
 
-AI Chat App (Flutter + Firebase + GPT APIs)
-Map App with AI integration (APIs, smart search)
+### AR Menu (Flutter + AR)
 
-🌍 Languages
-Kazakh — Native
-Russian — C2
-English — B2
+Interactive restaurant experience using QR and Augmented Reality.
+
+Features:
+
+* QR-based menu access
+* Browse meals digitally
+* View food in realistic 3D directly in real-world space at true scale
+* Select meals and place orders through restaurant workflow
+
+Tech:
+Flutter • AR • Firebase • Mobile Development
+
+---
+
+### Attendance+ (Flutter Mobile App)
+
+Geolocation-based attendance tracking platform.
+
+Features:
+
+* Location-aware attendance
+* Firebase Authentication & Firestore
+* Time-based attendance validation
+* Secure data handling
+* Clean and production-oriented UI/UX
+
+Tech:
+Flutter • Firebase • REST APIs
+
+---
+
+### Proctoring System
+
+Online examination monitoring and anti-cheating system.
+
+Features:
+
+* Exam session monitoring
+* Detection logic for suspicious behavior
+* Real-time supervision concepts
+* Secure examination workflow
+
+Tech:
+Flutter • AI Concepts • Computer Vision
+
+---
+
+### Mapping Project
+
+Map platform with intelligent search and location functionality.
+
+Features:
+
+* Interactive maps
+* API integrations
+* Smart search functionality
+* Geographic data visualization
+
+Tech:
+Flutter • Mapping • APIs
+
+---
+
+### AI Chat Application
+
+AI-powered communication platform.
+
+Features:
+
+* Real-time chat
+* AI interaction
+* Backend integration
+
+Tech:
+Flutter • Firebase • GPT APIs
+
+---
+
+## 🌍 Languages
+
+* Kazakh — Native
+* Russian — C2
+* English — B2
