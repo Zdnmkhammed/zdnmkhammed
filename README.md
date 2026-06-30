@@ -5,9 +5,9 @@
 
 ## 🧠 Profile
 
-Cybersecurity-focused student with practical experience in security analysis, penetration testing fundamentals, and software development. Interested in building secure and scalable systems while combining cybersecurity knowledge with mobile and AI-powered applications.
+Cybersecurity and software development student with practical experience in mobile development and security analysis. Focused on building modern applications with Flutter while developing expertise in SOC operations and penetration testing.
 
-Hands-on experience in security labs, network analysis, vulnerability assessment, and application development using Flutter and Python. Continuously improving practical skills through real-world projects and cybersecurity platforms.
+Experienced in creating real-world projects, integrating APIs, and applying cybersecurity principles to application development.
 
 ---
 
@@ -15,47 +15,35 @@ Hands-on experience in security labs, network analysis, vulnerability assessment
 
 ### Cybersecurity
 
-* SOC Analyst fundamentals
-* Penetration Testing (basic–intermediate)
-* Vulnerability Assessment
-* Network Security
-* Web Security (XSS, SQL Injection)
-* Phishing Attack Simulation & Defense
-* Threat Analysis
-
-### Systems & Networking
-
-* TCP/IP, OSI Model
-* Linux (Kali Linux, Ubuntu)
-* Network Fundamentals
-* Security Monitoring Concepts
+* SOC Analyst
+* Penetration Testing
 
 ### Development
 
-* Flutter, Dart
+* Flutter
+* Dart
 * Python
-* REST APIs
 * Firebase (Authentication, Firestore)
+* REST APIs
 * Git
 * UI/UX Fundamentals
 
 ### Tools
 
 * Nmap
+* Kali Linux
 * VS Code
 * OpenCV
 * NumPy
-* TTS / STT APIs
 
 ---
 
 ## 🔐 Cybersecurity Experience
 
 * Built and configured a personal cybersecurity lab using Kali Linux
-* Performed vulnerability scanning and network analysis using Nmap
-* Practiced phishing attack simulations and defense techniques
-* Conducted hands-on security labs and attack scenario exercises
-* Studied and analyzed common web vulnerabilities and mitigation approaches
+* Practiced penetration testing fundamentals and security analysis
+* Performed vulnerability scanning using Nmap
+* Worked on attack simulation and defensive security concepts
 * Developed understanding of SOC workflows and incident investigation basics
 
 ---
@@ -69,12 +57,12 @@ Interactive restaurant experience using QR and Augmented Reality.
 Features:
 
 * QR-based menu access
-* Browse meals digitally
-* View food in realistic 3D directly in real-world space at true scale
-* Select meals and place orders through restaurant workflow
+* Digital food browsing
+* View meals in realistic 3D directly in real-world space and real scale
+* Select dishes and order through restaurant workflow
 
 Tech:
-Flutter • AR • Firebase • Mobile Development
+Flutter • AR • Firebase
 
 ---
 
@@ -84,11 +72,11 @@ Geolocation-based attendance tracking platform.
 
 Features:
 
-* Location-aware attendance
-* Firebase Authentication & Firestore
-* Time-based attendance validation
+* Location-based attendance
+* Firebase integration
+* Time-based validation
 * Secure data handling
-* Clean and production-oriented UI/UX
+* Clean UI/UX
 
 Tech:
 Flutter • Firebase • REST APIs
@@ -97,30 +85,30 @@ Flutter • Firebase • REST APIs
 
 ### Proctoring System
 
-Online examination monitoring and anti-cheating system.
+Online examination monitoring system.
 
 Features:
 
-* Exam session monitoring
-* Detection logic for suspicious behavior
+* Exam monitoring
+* Suspicious activity detection
 * Real-time supervision concepts
-* Secure examination workflow
+* Secure assessment workflow
 
 Tech:
-Flutter • AI Concepts • Computer Vision
+Flutter • AI • Computer Vision
 
 ---
 
 ### Mapping Project
 
-Map platform with intelligent search and location functionality.
+Interactive mapping platform.
 
 Features:
 
-* Interactive maps
-* API integrations
-* Smart search functionality
+* Smart search
+* Map integration
 * Geographic data visualization
+* API connectivity
 
 Tech:
 Flutter • Mapping • APIs
@@ -129,13 +117,13 @@ Flutter • Mapping • APIs
 
 ### AI Chat Application
 
-AI-powered communication platform.
+AI-powered chat platform.
 
 Features:
 
-* Real-time chat
-* AI interaction
-* Backend integration
+* Real-time messaging
+* AI integration
+* Backend connectivity
 
 Tech:
 Flutter • Firebase • GPT APIs
